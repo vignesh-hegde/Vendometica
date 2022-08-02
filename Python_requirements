@@ -1,0 +1,6 @@
+sqlite3
+flask
+requests 
+json
+datetime
+pytz
